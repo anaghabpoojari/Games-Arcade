@@ -23,4 +23,4 @@ Backend:
 - Node.js
 - Express.js
 - MongoDB  
-🚀 Built with passion to combine fun and full-stack development — Games Arcade brings classic games to life with modern web technologies.
+## 🚀 Built with passion to combine fun and full-stack development — Games Arcade brings classic games to life with modern web technologies.
