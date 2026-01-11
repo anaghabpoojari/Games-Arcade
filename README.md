@@ -18,8 +18,9 @@ A full-stack **Mini Game Arcade** web application featuring multiple classic gam
 ## Tech Stack
 Frontend:
 - React.js
-- CSS
+- CSS  
 Backend:
 - Node.js
 - Express.js
 - MongoDB
+🚀 Built with passion to combine fun and full-stack development — Games Arcade brings classic games to life with modern web technologies.
