@@ -15,7 +15,7 @@ A full-stack **Mini Game Arcade** web application featuring multiple classic gam
 ✅ Whack-A-Mole  
 ✅ Hangman  
 ✅ Memory Card Game  
-## Tech Stack
+## Tech Stack  
 Frontend:
 - React.js
 - CSS  
